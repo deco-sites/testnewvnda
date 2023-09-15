@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/testnewvnda/": "./",
+
     "$store/": "./",
     "apps/": "https://denopkg.com/deco-cx/apps@0.6.5/",
     "deco/": "https://denopkg.com/deco-cx/deco@1.36.2/",
